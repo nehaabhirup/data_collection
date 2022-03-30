@@ -1,31 +1,38 @@
 [
     {
-        "id":1,
-        "name":"Fruits & Vegetables"
+        "_id":1,
+        "name":"Fruits & Vegetables",
+        "image_url":"https://i.ibb.co/CsKS9W0/fruits-veg.jpg"
     },
     {
-        "id":2,
-        "name":"Foodgrains, Oil & Masala"
+        "_id":2,
+        "name":"Foodgrains, Oil & Masala",
+        "image_url":"https://i.ibb.co/kys7F5x/food-grains-oil-masala.png"
     },
     {
-        "id":3,
-        "name":"Bakery & Dairy"
+        "_id":3,
+        "name":"Bakery & Dairy",
+        "image_url":"https://i.ibb.co/NjKLPnD/bakery-dairy.jpg"
     },
     {
-        "id":4,
-        "name":"Beverages"
+        "_id":4,
+        "name":"Beverages",
+        "image_url":"https://i.ibb.co/rQYCS7z/soft-drinks.jpg"
     },
     {
-        "id":5,
-        "name":"Beauty & Hygiene"
+        "_id":5,
+        "name":"Beauty & Hygiene",
+        "image_url":"https://i.ibb.co/Wkh8ZVp/beauty.jpg"
     },
     {
-        "id":6,
-        "name":"Cleaning & Household"
+        "category_id":6,
+        "name":"Cleaning & Household",
+        "image_url":"https://i.ibb.co/mB55Wy5/Cleaning-Kit.jpg"
     },
     {
-        "id":7,
-        "name":"Snacks & Branded Foods"
+        "category_id":7,
+        "name":"Snacks & Branded Foods",
+        "image_url":"https://i.ibb.co/7b3xM4L/snacks-branded.jpg"
     }
     
 ]

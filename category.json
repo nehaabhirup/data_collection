@@ -1,26 +1,26 @@
-[
+db.category.insert([
     {
-        "_id":1,
+        "category_id":1,
         "name":"Fruits & Vegetables",
         "image_url":"https://i.ibb.co/CsKS9W0/fruits-veg.jpg"
     },
     {
-        "_id":2,
+        "category_id":2,
         "name":"Foodgrains, Oil & Masala",
         "image_url":"https://i.ibb.co/kys7F5x/food-grains-oil-masala.png"
     },
     {
-        "_id":3,
+        "category_id":3,
         "name":"Bakery & Dairy",
         "image_url":"https://i.ibb.co/NjKLPnD/bakery-dairy.jpg"
     },
     {
-        "_id":4,
+        "category_id":4,
         "name":"Beverages",
         "image_url":"https://i.ibb.co/rQYCS7z/soft-drinks.jpg"
     },
     {
-        "_id":5,
+        "category_id":5,
         "name":"Beauty & Hygiene",
         "image_url":"https://i.ibb.co/Wkh8ZVp/beauty.jpg"
     },
@@ -34,5 +34,4 @@
         "name":"Snacks & Branded Foods",
         "image_url":"https://i.ibb.co/7b3xM4L/snacks-branded.jpg"
     }
-    
-]
+])

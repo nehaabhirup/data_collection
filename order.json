@@ -1,0 +1,44 @@
+db.orders.insert([
+    {
+        "name": "Neha",
+        "email": "neha@gmail.com",
+        "phone": 768768686,
+        "cost": 231,
+        "listItem": [73,75,76,77]
+    },
+    {
+        "name": "Abhirup",
+        "email": "abhirup@gmail.com",
+        "phone": 768768686,
+        "cost": 197,
+        "listItem": [6,9,8,12,72]
+    },
+    {
+        "name": "Rose",
+        "email": "rose@gmail.com",
+        "phone": 768768686,
+        "cost": 814,
+        "listItem": [53,64,77,80,78,34]
+    },
+    {
+        "name": "Alan",
+        "email": "alan@gmail.com",
+        "phone": 97876733,
+        "cost": 216,
+        "listItem": [32,45,16,20,22]
+    },
+    {
+        "name": "Shamika",
+        "email": "shamika@gmail.com",
+        "phone": 97876733,
+        "cost": 380,
+        "listItem": [45,67,32,57]
+    },
+    {
+        "name": "Cyana",
+        "email": "cyana@gmail.com",
+        "phone": 97876733,
+        "cost": 298,
+        "listItem": [6,9,10,15,32,44]
+    }
+])

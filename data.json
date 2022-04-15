@@ -1,275 +1,275 @@
-[
+db.product.insert([
     {
-        "product_Id":101,
+        "product_Id":1,
         "product_name":"Fruits",
         "image_url":"https://i.ibb.co/ncM1f54/fruits.jpg",
-        "_id":1,
+        "category_id":1,
         "qty": ""
     },
     {
-        "product_Id":102,
+        "product_Id":2,
         "product_name":"Vegetables",
         "image_url":"https://i.ibb.co/tHxW5Wf/veg.jpg",
-        "_id":1,
+        "category_id":1,
         "qty": ""
     },
     {
-        "product_Id":103,
+        "product_Id":3,
         "product_name":"Rice & Rice Products",
         "image_url":"https://i.ibb.co/2yPsJt1/rice.jpg",
-        "_id":2,
+        "category_id":2,
         "qty": ""
     },
     {
-        "product_Id":104,
+        "product_Id":4,
         "product_name":"Dals & Pulses",
         "image_url":"https://i.ibb.co/v14QrFy/pulses.jpg",
-        "_id":2,
+        "category_id":2,
         "qty": ""
     },
     {
-        "product_Id":105,
+        "product_Id":5,
         "product_name":"Atta, Flours & Sooji",
         "image_url":"https://i.ibb.co/n0bSzJP/flour.jpg",
-        "_id":2,
+        "category_id":2,
         "qty": ""
     },
     {
-        "product_Id":106,
+        "product_Id":6,
         "product_name":"Salt, Sugar & Jaggery",
         "image_url":"https://i.ibb.co/1mDjj53/salt-sugar.jpg",
-        "_id":2,
+        "category_id":2,
         "qty": ""
     },
     {
-        "product_Id":107,
+        "product_Id":7,
         "product_name":"Edible Oils & Ghee",
         "image_url":"https://i.ibb.co/ZxsCqvS/oil-ghee.jpg",
-        "_id":2,
+        "category_id":2,
         "qty": ""
     },
     {
-        "product_Id":108,
+        "product_Id":8,
         "product_name":"Masalas & Spices",
         "image_url":"https://i.ibb.co/GvPDXN8/spices.jpg",
-        "_id":2,
+        "category_id":2,
         "qty": ""
     },
     {
-        "product_Id":109,
+        "product_Id":9,
         "product_name":"Dry Fruits",
         "image_url":"https://i.ibb.co/QHG5TFR/Dry-Fruits.jpg",
-        "_id":2,
+        "category_id":2,
         "qty": ""
     },
     {
-        "product_Id":100,
+        "product_Id":10,
         "product_name":"Breads & Buns",
         "image_url":"https://i.ibb.co/RymTfF5/bread-buns.jpg",
-        "_id":3,
+        "category_id":3,
         "qty": ""
     },
     {
-        "product_Id":111,
+        "product_Id":11,
         "product_name":"Bakery Snacks",
         "image_url":"https://i.ibb.co/16H20Lv/cookies.jpg",
-        "_id":3,
+        "category_id":3,
         "qty": ""
     },
     {
-        "product_Id":112,
+        "product_Id":12,
         "product_name":"Cookies, Rusk & Khari",
         "image_url":"https://i.ibb.co/FBmBFHc/rusk.jpg",
-        "_id":3,
+        "category_id":3,
         "qty": ""
     },
     {
-        "product_Id":113,
+        "product_Id":13,
         "product_name":"Cakes & Pastries",
         "image_url":"https://i.ibb.co/BTPz8zv/pastries.jpg",
-        "_id":3,
+        "category_id":3,
         "qty": ""
     },
     {
-        "product_Id":114,
-        "product_name":"Ice Creams & Desserts",
-        "image_url":"https://i.ibb.co/gv9qcjB/icecream.jpg",
-        "_id":3,
+        "product_Id":14,
+        "product_name":"Dairy",
+        "image_url":"https://i.ibb.co/t4ZXNZ0/dairy.jpg",
+        "category_id":3,
         "qty": ""
     },
     {
-        "product_Id":115,
+        "product_Id":15,
         "product_name":"Soft Drinks",
         "image_url":"https://i.ibb.co/rQYCS7z/soft-drinks.jpg",
-        "_id":4,
+        "category_id":4,
         "qty": ""
     },
     {
-        "product_Id":116,
+        "product_Id":16,
         "product_name":"Tea",
         "image_url":"https://i.ibb.co/4SJ1pGq/tea.jpg",
-        "_id":4,
+        "category_id":4,
         "qty": ""
     },
     {
-        "product_Id":117,
+        "product_Id":17,
         "product_name":"coffee",
         "image_url":"https://i.ibb.co/WvbdDQB/coffee.jpg",
-        "_id":4,
+        "category_id":4,
         "qty": ""
     },
     {
-        "product_Id":118,
+        "product_Id":18,
         "product_name":"Fruit Juices",
         "image_url":"https://i.ibb.co/60Vt0Jf/juices.jpg",
-        "_id":4,
+        "category_id":4,
         "qty": ""
     },
     {
-        "product_Id":119,
+        "product_Id":19,
         "product_name":"Feminine Hygiene",
         "image_url":"https://i.ibb.co/3W8McsW/whisper.jpg",
-        "_id":5,
+        "category_id":5,
         "qty": ""
     },
     {
-        "product_Id":120,
+        "product_Id":20,
         "product_name":"Bath & Hand Wash",
         "image_url":"https://i.ibb.co/64w13D8/Dettol.png",
-        "_id":5,
+        "category_id":5,
         "qty": ""
     },
     {
-        "product_Id":121,
+        "product_Id":21,
         "product_name":"Hair Care",
         "image_url":"https://i.ibb.co/RQj1jZP/shampoo.jpg",
-        "_id":5,
+        "category_id":5,
         "qty": ""
     },
     {
-        "product_Id":122,
+        "product_Id":22,
         "product_name":"Men's Grooming",
         "image_url":"https://i.ibb.co/ynZHFxp/Axe.jpg",
-        "_id":5,
+        "category_id":5,
         "qty": ""
     },
     {
-        "product_Id":123,
+        "product_Id":23,
         "product_name":"Skin Care",
         "image_url":"https://i.ibb.co/QY4576p/nivea.png",
-        "_id":5,
+        "category_id":5,
         "qty": ""
     },
     {
-        "product_Id":124,
+        "product_Id":24,
         "product_name":"Franrance & Deos",
         "image_url":"https://i.ibb.co/0JpC838/deo.jpg",
-        "_id":5,
+        "category_id":5,
         "qty": ""
     },
     {
-        "product_Id":125,
+        "product_Id":25,
         "product_name":"All Purpose Cleaners",
         "image_url":"https://i.ibb.co/vqpqSFB/lizol.jpg",
-        "_id":6,
+        "category_id":6,
         "qty": ""
     },
     {
-        "product_Id":126,
+        "product_Id":26,
         "product_name":"Disposables, Garbage Bag",
         "image_url":"https://i.ibb.co/wcybD66/tissue.jpg",
-        "_id":6,
+        "category_id":6,
         "qty": ""
     },
     {
-        "product_Id":127,
+        "product_Id":27,
         "product_name":"Mops, Brushes & Scrubs",
         "image_url":"https://i.ibb.co/M8PFyBM/mopbucket.jpg",
-        "_id":6,
+        "category_id":6,
         "qty": ""
     },
     {
-        "product_Id":128,
+        "product_Id":28,
         "product_name":"Bins & Bathroom Ware",
         "image_url":"https://i.ibb.co/tq4HCK9/bin.jpg",
-        "_id":6,
+        "category_id":6,
         "qty": ""
     },
     {
-        "product_Id":129,
+        "product_Id":29,
         "product_name":"Party & Festive Needs",
         "image_url":"https://i.ibb.co/S5XZ0gd/baloons.jpg",
-        "_id":6,
+        "category_id":6,
         "qty": ""
     },
     {
-        "product_Id":130,
+        "product_Id":30,
         "product_name":"Pooja Needs",
         "image_url":"https://i.ibb.co/sb27nZM/agarbatti.jpg",
-        "_id":6,
+        "category_id":6,
         "qty": ""
     },
     {
-        "product_Id":131,
+        "product_Id":31,
         "product_name":"Noodles, Pasta, Vermicelli",
-        "image_url":"https://i.ibb.co/60Vt0Jf/juices.jpg",
-        "_id":7,
+        "image_url":"https://i.ibb.co/tbKLW72/noodles.jpg",
+        "category_id":7,
         "qty": ""
     },
     {
-        "product_Id":132,
+        "product_Id":32,
         "product_name":"Spreads, Sauce, Ketchup",
-        "image_url":"https://i.ibb.co/60Vt0Jf/juices.jpg",
-        "_id":7,
+        "image_url":"https://i.ibb.co/1mjkpXz/spread.jpg",
+        "category_id":7,
         "qty": ""
     },
     {
-        "product_Id":133,
+        "product_Id":33,
         "product_name":"Biscuits & Cookies",
-        "image_url":"https://i.ibb.co/60Vt0Jf/juices.jpg",
-        "_id":7,
+        "image_url":"https://i.ibb.co/Vg3fGs1/biscuit.jpg",
+        "category_id":7,
         "qty": ""
     },
     {
-        "product_Id":134,
+        "product_Id":34,
         "product_name":"Snacks & Namkeen",
-        "image_url":"https://i.ibb.co/60Vt0Jf/juices.jpg",
-        "_id":7,
+        "image_url":"https://i.ibb.co/VL6TM9x/namkeen.jpg",
+        "category_id":7,
         "qty": ""
     },
     {
-        "product_Id":135,
+        "product_Id":35,
         "product_name":"ready To Cook & Eat",
-        "image_url":"https://i.ibb.co/60Vt0Jf/juices.jpg",
-        "_id":7,
+        "image_url":"https://i.ibb.co/4VhPLCk/readymade.jpg",
+        "category_id":7,
         "qty": ""
     },
     {
-        "product_Id":136,
+        "product_Id":36,
         "product_name":"Chocolates & Candies",
-        "image_url":"https://i.ibb.co/60Vt0Jf/juices.jpg",
-        "_id":7,
+        "image_url":"https://i.ibb.co/qBNcSV3/candies.jpg",
+        "category_id":7,
         "qty": ""
     },
     {
-        "product_Id":137,
+        "product_Id":37,
         "product_name":"Pickles & Chutney",
-        "image_url":"https://i.ibb.co/60Vt0Jf/juices.jpg",
-        "_id":7,
+        "image_url":"https://i.ibb.co/cw7M5gJ/pickle.jpg",
+        "category_id":7,
         "qty": ""
     },
     {
-        "product_Id":138,
+        "product_Id":38,
         "product_name":"Breakfast Cereals",
-        "image_url":"https://i.ibb.co/60Vt0Jf/juices.jpg",
-        "_id":7,
+        "image_url":"https://i.ibb.co/Zhw9vZM/cereal.jpg",
+        "category_id":7,
         "qty": ""
     },
     {
-        "product_Id":139,
+        "product_Id":39,
         "product_name":"Indian Mithai",
-        "image_url":"https://i.ibb.co/60Vt0Jf/juices.jpg",
-        "_id":7,
+        "image_url":"https://i.ibb.co/Kwzh9Th/mithai.png",
+        "category_id":7,
         "qty": ""
     }
-]
+])
